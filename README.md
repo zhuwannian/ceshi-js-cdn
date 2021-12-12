@@ -2,7 +2,6 @@
 测试公共GitHub仓库加速URL访问图床
 
 
-[教程 https://51.ruyo.net/15149.html](https://51.ruyo.net/15149.html)
 
 ```sh
 
