@@ -6,6 +6,11 @@
 
 ```sh
 
+
+https://raw.githubusercontent.com/zhuwannian/ceshi-js-cdn/main/file.txt
+
+
+
 https://cdn.jsdelivr.net/gh/<github账号>/<仓库名称>@<版本号>/<文件路径>/<文件名>
 不输入版本号默认访问最新版本
 
