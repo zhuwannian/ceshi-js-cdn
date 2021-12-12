@@ -26,6 +26,6 @@ https://cdn.jsdelivr.net/gh/zhuwannian/ceshi-js-cdn@master/file.txt
 
 上面的三个，就不用新建releases了！
 
-
+有延迟
 
 
