@@ -38,7 +38,7 @@ https://cdn.jsdelivr.net/gh/zhuwannian/ceshi-js-cdn@master/file.txt
 
 无延迟
 https://ghproxy.com/https://raw.githubusercontent.com/zhuwannian/ceshi-js-cdn/main/file.txt
-
+https://github.com.cnpmjs.org/zhuwannian/ceshi-js-cdn/raw/main/file.txt
 
 ```
 
